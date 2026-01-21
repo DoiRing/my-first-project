@@ -1,1 +1,1 @@
-ECHO is on.
+password =2436
